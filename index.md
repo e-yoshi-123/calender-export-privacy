@@ -69,6 +69,6 @@
 
 ## 8. お問い合わせ
 
-本ポリシーに関するご質問・ご意見は、[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLScamgVoHSca6gchBVa8YoyFTjkXhx0YtdPkKCOpEVxr6jFMkw/viewform?usp=publish-editor) よりご連絡ください。
+本ポリシーに関するご質問・ご意見は、[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYX9-d9VBXJovqAOTMMHSFTPugeCzhB9-Zi5n9AiFDaX6hPA/viewform?usp=publish-editor) よりご連絡ください。
 
 ---
